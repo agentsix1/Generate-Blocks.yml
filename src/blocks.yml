@@ -1,0 +1,31 @@
+Menus: 
+- Redstone
+- Transporation
+- Miscellaneous
+- Foodstuffs
+- Tools
+- Combat
+- Brewing
+- Materials
+Redstone:
+  Block: REDSTONE:0:1:none:&cR&8edstone:none
+  Blocks:
+Transportation:
+  Block: BEDROCK:0:1:none:&cT&8ransportation:none
+  Blocks:
+Miscellaneous:
+  Block: BEDROCK:0:1:none:&cM&8iscellaneous:none
+  Blocks:
+Foodstuffs:
+  Block: BEDROCK:0:1:none:&cF&8oodstuffs:none
+  Blocks:
+Tools:
+  Block: BEDROCK:0:1:none:&cT&8ools:none
+  Blocks:
+Combat:
+  Block: BEDROCK:0:1:none:&cC&8ombat:none
+  Blocks:
+Brewing:
+  Block: BEDROCK:0:1:none:&cB&8rewing:none
+Materials:
+  Block: BEDROCK:0:1:none:&cM&8aterials:none

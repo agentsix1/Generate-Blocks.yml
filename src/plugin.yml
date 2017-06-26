@@ -1,0 +1,11 @@
+name: IFP_Generate_BlocksYML
+version: 0.0.1
+description: This plugin is used to create blocks.yml file for the ItemFilterPickup plugin
+author: Agentsix1
+main: me.jeremy.ifpgenblks.main
+commands:
+  genblocks:
+    description: The main command for this loverly plugin!
+permissions:
+  itemfilterpickupgenblks.admin:
+    default: op
